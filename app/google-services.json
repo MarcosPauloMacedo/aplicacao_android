@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287243279544",
+    "project_id": "imepac-be220",
+    "storage_bucket": "imepac-be220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287243279544:android:accce479393a6fb4e7e84d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Rjpj2cqJJ4q5DI018FQq6_m7uPVOaGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
